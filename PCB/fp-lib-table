@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DX07S016JA1R1500")(type "KiCad")(uri "/home/jeandet/Documents/PCB/STicky/PCB/libs/DX07S016JA1R1500")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/libs/footprints.pretty")(options "")(descr ""))
+  (lib (name "UGA")(type "KiCad")(uri "${KIPRJMOD}/libs/UGA.pretty")(options "")(descr ""))
+)
