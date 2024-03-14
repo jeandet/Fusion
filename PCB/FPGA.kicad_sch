@@ -3329,15 +3329,6 @@
 		(uuid "0d1bca02-f899-4390-b48c-f7c6b1186e4e")
 	)
 	(bus_entry
-		(at 241.3 229.87)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0d8c3c9c-ea0f-445b-99ef-8a10e39921ac")
-	)
-	(bus_entry
 		(at 334.01 212.09)
 		(size 2.54 2.54)
 		(stroke
@@ -3354,15 +3345,6 @@
 			(type default)
 		)
 		(uuid "109d5083-720b-41bd-84f0-3ab9a6f644be")
-	)
-	(bus_entry
-		(at 241.3 232.41)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16acf88a-cee6-4acb-ab55-881e9ed6588a")
 	)
 	(bus_entry
 		(at 130.81 254)
@@ -3453,15 +3435,6 @@
 			(type default)
 		)
 		(uuid "3d2e4227-7fef-4b5f-a1ec-e1ea4150d50c")
-	)
-	(bus_entry
-		(at 241.3 217.17)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3f4c9bf2-4cb6-4ecd-bbbc-c5dd253e409b")
 	)
 	(bus_entry
 		(at 334.01 232.41)
@@ -3599,24 +3572,6 @@
 		(uuid "7041eba7-183b-4c30-9274-1e2c49419366")
 	)
 	(bus_entry
-		(at 241.3 227.33)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7093d379-3ccb-4a75-8800-95f2229e4c22")
-	)
-	(bus_entry
-		(at 241.3 222.25)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "740adb0c-acd4-4d06-8491-7e7028e96060")
-	)
-	(bus_entry
 		(at 130.81 261.62)
 		(size 2.54 2.54)
 		(stroke
@@ -3687,15 +3642,6 @@
 			(type default)
 		)
 		(uuid "8f35e653-d354-4872-b002-a1730780698c")
-	)
-	(bus_entry
-		(at 241.3 224.79)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8fe61b82-1e76-40bd-9d49-ef3ed4d582a5")
 	)
 	(bus_entry
 		(at 130.81 205.74)
@@ -3860,15 +3806,6 @@
 		(uuid "c2a0e5e8-2c5d-4ca1-aae5-70d5439e67b8")
 	)
 	(bus_entry
-		(at 241.3 219.71)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c2ac8b69-2e76-4b60-bde2-67fb5f83baf1")
-	)
-	(bus_entry
 		(at 241.3 209.55)
 		(size -2.54 -2.54)
 		(stroke
@@ -3986,15 +3923,6 @@
 		(uuid "f4c4e37c-16a5-4403-8d0a-2ca35614664d")
 	)
 	(bus_entry
-		(at 241.3 214.63)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4cea008-50e6-4917-a8e8-b5b24979aadc")
-	)
-	(bus_entry
 		(at 283.21 205.74)
 		(size 2.54 2.54)
 		(stroke
@@ -4038,15 +3966,6 @@
 			(type default)
 		)
 		(uuid "fbaa649f-15e1-4206-9c7b-1d51c7d9dba4")
-	)
-	(bus_entry
-		(at 241.3 234.95)
-		(size -2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd7a7a0b-8fc3-4b3f-8613-e180da60c972")
 	)
 	(bus_entry
 		(at 241.3 207.01)
@@ -4186,16 +4105,6 @@
 			(type default)
 		)
 		(uuid "0677f803-b52d-4c02-9cc1-d949a4dcec97")
-	)
-	(wire
-		(pts
-			(xy 295.91 125.73) (xy 322.58 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "073676f0-e946-429a-92a2-f4c967e73e79")
 	)
 	(wire
 		(pts
@@ -4369,16 +4278,6 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 214.63) (xy 238.76 214.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1360710d-91fd-4057-943a-dded1a8378a1")
-	)
-	(wire
-		(pts
 			(xy 162.56 17.78) (xy 162.56 16.51)
 		)
 		(stroke
@@ -4477,16 +4376,6 @@
 		)
 		(uuid "19281c6c-ccfd-45f4-ae14-b3f1d72e9018")
 	)
-	(bus
-		(pts
-			(xy 241.3 222.25) (xy 241.3 224.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "192d3837-b7aa-43df-8598-18a23cb2152a")
-	)
 	(wire
 		(pts
 			(xy 312.42 229.87) (xy 334.01 229.87)
@@ -4526,16 +4415,6 @@
 			(type default)
 		)
 		(uuid "1aa9d7d0-6fea-4a13-a103-84828f32cf97")
-	)
-	(wire
-		(pts
-			(xy 215.9 219.71) (xy 238.76 219.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b802f9a-e539-4554-9979-e863619cd56c")
 	)
 	(bus
 		(pts
@@ -4607,16 +4486,6 @@
 		)
 		(uuid "23489af7-a815-4f25-957b-7210d2ba60fa")
 	)
-	(wire
-		(pts
-			(xy 295.91 123.19) (xy 322.58 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "234ce8aa-8cad-42dc-9cff-789bbf20b04c")
-	)
 	(bus
 		(pts
 			(xy 285.75 213.36) (xy 285.75 215.9)
@@ -4679,7 +4548,7 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 113.03) (xy 322.58 113.03)
+			(xy 306.07 113.03) (xy 322.58 113.03)
 		)
 		(stroke
 			(width 0)
@@ -4757,16 +4626,6 @@
 		)
 		(uuid "31478fd9-875e-424f-aae8-09f4799f4d71")
 	)
-	(bus
-		(pts
-			(xy 241.3 214.63) (xy 241.3 217.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "317d9484-ffe7-4093-ae6d-3866389247ed")
-	)
 	(wire
 		(pts
 			(xy 227.33 251.46) (xy 231.14 251.46)
@@ -4819,7 +4678,7 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 107.95) (xy 322.58 107.95)
+			(xy 306.07 107.95) (xy 322.58 107.95)
 		)
 		(stroke
 			(width 0)
@@ -4859,6 +4718,16 @@
 	)
 	(wire
 		(pts
+			(xy 306.07 115.57) (xy 322.58 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a7d5d0c-9409-435d-9926-96fbf94fab99")
+	)
+	(wire
+		(pts
 			(xy 35.56 149.86) (xy 44.45 149.86)
 		)
 		(stroke
@@ -4879,7 +4748,7 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 118.11) (xy 322.58 118.11)
+			(xy 306.07 118.11) (xy 322.58 118.11)
 		)
 		(stroke
 			(width 0)
@@ -4979,16 +4848,6 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 222.25) (xy 238.76 222.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "45ea8ab3-892d-4703-b90f-f6ade44f4ff9")
-	)
-	(wire
-		(pts
 			(xy 22.86 99.06) (xy 44.45 99.06)
 		)
 		(stroke
@@ -5036,16 +4895,6 @@
 			(type default)
 		)
 		(uuid "49f54bcc-d2c3-48ff-92ee-cef25bb38a2e")
-	)
-	(wire
-		(pts
-			(xy 215.9 217.17) (xy 238.76 217.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a12480f-9c80-423a-a677-8c5028c9c571")
 	)
 	(wire
 		(pts
@@ -5377,16 +5226,6 @@
 		)
 		(uuid "5dfc7615-b29b-495e-863b-dbaccad46b0d")
 	)
-	(bus
-		(pts
-			(xy 241.3 217.17) (xy 241.3 219.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e18860d-3a52-4698-99fd-869a93fc083a")
-	)
 	(wire
 		(pts
 			(xy 304.8 45.72) (xy 318.77 45.72)
@@ -5446,16 +5285,6 @@
 			(type default)
 		)
 		(uuid "61b8bb8d-9a1b-4cc6-9c60-a3dbdaad9b4e")
-	)
-	(wire
-		(pts
-			(xy 215.9 224.79) (xy 238.76 224.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "62c86bb7-e5bd-485b-be1f-1b35e8c7ca93")
 	)
 	(wire
 		(pts
@@ -5596,16 +5425,6 @@
 			(type default)
 		)
 		(uuid "6b88ab9e-5ee1-423b-8ea3-5b05be612e58")
-	)
-	(bus
-		(pts
-			(xy 241.3 212.09) (xy 241.3 214.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6bc47593-979e-4b16-885e-7ced7b5b3feb")
 	)
 	(wire
 		(pts
@@ -5916,26 +5735,6 @@
 			(type default)
 		)
 		(uuid "80b26d76-ce24-442c-9002-47223fb16ea7")
-	)
-	(bus
-		(pts
-			(xy 241.3 224.79) (xy 241.3 227.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80d9c5c5-67eb-4137-b8dc-e58fdc5608e0")
-	)
-	(bus
-		(pts
-			(xy 241.3 219.71) (xy 241.3 222.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "825c7150-fe91-419d-990f-3e442197432c")
 	)
 	(wire
 		(pts
@@ -6309,7 +6108,7 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 110.49) (xy 322.58 110.49)
+			(xy 306.07 110.49) (xy 322.58 110.49)
 		)
 		(stroke
 			(width 0)
@@ -6326,16 +6125,6 @@
 			(type default)
 		)
 		(uuid "9714bd58-7555-4830-9f3f-20221222b42a")
-	)
-	(wire
-		(pts
-			(xy 215.9 232.41) (xy 238.76 232.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "98d9f50f-6e9c-4fb8-bb5e-c053a6de7bd2")
 	)
 	(bus
 		(pts
@@ -6557,16 +6346,6 @@
 		)
 		(uuid "a2efad83-1781-43f8-9548-9344ef051b86")
 	)
-	(bus
-		(pts
-			(xy 241.3 227.33) (xy 241.3 229.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a358230b-a3a1-44ea-bc7e-e04d97e9e6af")
-	)
 	(wire
 		(pts
 			(xy 302.26 35.56) (xy 318.77 35.56)
@@ -6596,16 +6375,6 @@
 			(type default)
 		)
 		(uuid "a44970be-4057-4d66-bfe2-88f979131df3")
-	)
-	(wire
-		(pts
-			(xy 215.9 212.09) (xy 238.76 212.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a4709e70-5c5d-4d7a-8ee3-297fedb53f7a")
 	)
 	(bus
 		(pts
@@ -6746,16 +6515,6 @@
 			(type default)
 		)
 		(uuid "ad06c4ee-2ee1-4147-856a-1596ad72c466")
-	)
-	(bus
-		(pts
-			(xy 241.3 229.87) (xy 241.3 232.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad8def1e-a0f3-4e6a-8c29-f48c8dd2bb85")
 	)
 	(bus
 		(pts
@@ -7016,16 +6775,6 @@
 			(type default)
 		)
 		(uuid "c3dfc16b-b73a-4bee-82b5-d85e4abdaed5")
-	)
-	(wire
-		(pts
-			(xy 215.9 227.33) (xy 238.76 227.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5169463-eb88-4581-990c-ecde5aa0e3f0")
 	)
 	(wire
 		(pts
@@ -7399,7 +7148,7 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 105.41) (xy 322.58 105.41)
+			(xy 306.07 105.41) (xy 322.58 105.41)
 		)
 		(stroke
 			(width 0)
@@ -7439,16 +7188,6 @@
 	)
 	(bus
 		(pts
-			(xy 241.3 232.41) (xy 241.3 234.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e25b3da3-1a8d-46c6-9796-6f56409a0790")
-	)
-	(bus
-		(pts
 			(xy 198.12 199.39) (xy 198.12 201.93)
 		)
 		(stroke
@@ -7456,16 +7195,6 @@
 			(type default)
 		)
 		(uuid "e2fb1b3a-af0f-4bcc-9f4d-6d7061b6e786")
-	)
-	(wire
-		(pts
-			(xy 215.9 229.87) (xy 238.76 229.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e38bfeed-e82b-4912-bb49-f140886fec98")
 	)
 	(wire
 		(pts
@@ -7526,16 +7255,6 @@
 			(type default)
 		)
 		(uuid "e7eaf14c-2f70-4b16-a8aa-1e5e5b3e776d")
-	)
-	(wire
-		(pts
-			(xy 295.91 115.57) (xy 322.58 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e88bbc20-9d66-4c00-87a1-163a71b678b6")
 	)
 	(bus
 		(pts
@@ -8465,18 +8184,6 @@
 		)
 		(uuid "499add5e-b02b-47aa-b9f5-abe157b113cd")
 	)
-	(label "FPGA_BANK6_IO14"
-		(at 215.9 232.41 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 132 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "4a09630f-b731-41f6-91c0-a40e984b4e89")
-	)
 	(label "FPGA_BANK6_IO0"
 		(at 295.91 87.63 0)
 		(fields_autoplaced yes)
@@ -8584,18 +8291,6 @@
 		)
 		(uuid "5533714b-fbf9-4514-9828-84431bf5e0a1")
 	)
-	(label "FPGA_BANK6_IO7"
-		(at 215.9 214.63 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 132 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "5597f5ba-61e8-4375-b076-7180707073fc")
-	)
 	(label "FPGA_BANK1_IO13"
 		(at 176.53 224.79 0)
 		(fields_autoplaced yes)
@@ -8619,18 +8314,6 @@
 			(justify left bottom)
 		)
 		(uuid "5969957a-88a3-4261-bedd-2e0728b45cf7")
-	)
-	(label "FPGA_BANK6_IO8"
-		(at 215.9 217.17 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 132 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "59f4ccd9-1439-4fc0-9148-e2bacc974501")
 	)
 	(label "FPGA_BANK1_IO1"
 		(at 176.53 194.31 0)
@@ -8725,18 +8408,6 @@
 		)
 		(uuid "6302626a-140f-4a8b-8108-22814a4e6546")
 	)
-	(label "FPGA_BANK6_IO13"
-		(at 295.91 123.19 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 132 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "634ef597-066a-426d-984c-68e9f3025fb5")
-	)
 	(label "FPGA_BANK1_IO14"
 		(at 22.86 114.3 0)
 		(fields_autoplaced yes)
@@ -8761,18 +8432,6 @@
 		)
 		(uuid "6516b4e5-2879-401e-b845-2efdc18592d4")
 	)
-	(label "FPGA_BANK6_IO6"
-		(at 215.9 212.09 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 132 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "651749f0-5d3c-4bee-81e7-0e1ee87dce3c")
-	)
 	(label "FPGA_BANK1_IO10"
 		(at 22.86 101.6 0)
 		(fields_autoplaced yes)
@@ -8796,18 +8455,6 @@
 			(justify left bottom)
 		)
 		(uuid "66e41429-d876-424a-9146-f46a111bd4d5")
-	)
-	(label "FPGA_BANK6_IO10"
-		(at 215.9 222.25 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 132 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "675371c5-e1ff-47ed-9788-64abd3a84359")
 	)
 	(label "1.1V"
 		(at 39.37 228.6 0)
@@ -8983,30 +8630,6 @@
 			(justify left bottom)
 		)
 		(uuid "76acb503-65d9-4525-8e3c-663e72a978e5")
-	)
-	(label "FPGA_BANK6_IO10"
-		(at 295.91 110.49 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 132 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "786daef3-c7f9-4b2e-b260-a681464046ed")
-	)
-	(label "FPGA_BANK6_IO9"
-		(at 215.9 219.71 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 132 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "796967d8-1eaf-4a9a-bbfa-4732a0a33ef5")
 	)
 	(label "FPGA_BANK0_VCCIO"
 		(at 26.67 46.99 0)
@@ -9299,18 +8922,6 @@
 		)
 		(uuid "9ab92471-08a6-40fd-8f5e-d84ff2201a3d")
 	)
-	(label "FPGA_BANK6_IO6"
-		(at 295.91 102.87 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 132 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "9ac5ec1f-b6e9-42ed-a0af-f31c67f1cb4b")
-	)
 	(label "FPGA_D27"
 		(at 304.8 58.42 0)
 		(fields_autoplaced yes)
@@ -9536,18 +9147,6 @@
 		)
 		(uuid "ba3f25a2-3e63-4140-bf69-afd842095e1a")
 	)
-	(label "FPGA_BANK6_IO9"
-		(at 295.91 113.03 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 132 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "bac9db40-6c46-4f7e-bf37-515ebd451158")
-	)
 	(label "3.3V"
 		(at 229.87 16.51 0)
 		(fields_autoplaced yes)
@@ -9605,18 +9204,6 @@
 			(justify left bottom)
 		)
 		(uuid "c32b0735-c3a6-45b6-8b16-82f499944feb")
-	)
-	(label "FPGA_BANK6_IO11"
-		(at 295.91 115.57 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 132 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "c6a7da49-690a-41fd-8577-9e2c68dc298a")
 	)
 	(label "FPGA_BANK7_IO8"
 		(at 259.08 226.06 0)
@@ -9757,18 +9344,6 @@
 		)
 		(uuid "d02d23a8-b4e4-4475-b305-8d4a7339d91e")
 	)
-	(label "FPGA_BANK6_IO8"
-		(at 295.91 107.95 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 132 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "d1f24905-633e-43f6-b295-05fadb3fcc31")
-	)
 	(label "FPGA_BANK0_IO0"
 		(at 312.42 212.09 0)
 		(fields_autoplaced yes)
@@ -9780,18 +9355,6 @@
 			(justify left bottom)
 		)
 		(uuid "d33fb1e9-3000-48fd-b0be-37add68218b1")
-	)
-	(label "FPGA_BANK6_IO11"
-		(at 215.9 224.79 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 132 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "d597c26b-62f7-44c9-aa18-3ae43dbcdfcb")
 	)
 	(label "FPGA_D23"
 		(at 116.84 251.46 0)
@@ -9816,18 +9379,6 @@
 		)
 		(uuid "d6393276-1287-4bb7-9e7a-30d11489be8e")
 	)
-	(label "FPGA_BANK6_IO13"
-		(at 215.9 229.87 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 132 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "d6fff855-b402-4efc-95d2-ba5c13526fe2")
-	)
 	(label "1.1V"
 		(at 186.69 16.51 0)
 		(fields_autoplaced yes)
@@ -9849,18 +9400,6 @@
 			(justify left bottom)
 		)
 		(uuid "d7a0b4e3-c811-4f96-b6c5-e4afd1756171")
-	)
-	(label "FPGA_BANK6_IO12"
-		(at 295.91 118.11 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 132 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "d9edcd88-cbd3-4ca7-a166-90412c16630d")
 	)
 	(label "FPGA_BANK6_IO3"
 		(at 215.9 204.47 0)
@@ -10160,42 +9699,6 @@
 		)
 		(uuid "fdd26429-b86d-4102-8e8e-d17ede744c02")
 	)
-	(label "FPGA_BANK6_IO14"
-		(at 295.91 125.73 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 132 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "ff7566b9-39e8-437f-a9b3-fc8a2c3067fc")
-	)
-	(label "FPGA_BANK6_IO12"
-		(at 215.9 227.33 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 132 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "ff8c4863-4eed-4ba7-82e6-61dc6de3fdad")
-	)
-	(label "FPGA_BANK6_IO7"
-		(at 295.91 105.41 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 132 0 132 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "ff9bcd7c-8001-4c47-8a18-db8cf8c2b73c")
-	)
 	(hierarchical_label "FPGA_BANK0_VCCIO"
 		(shape input)
 		(at 200.66 254 180)
@@ -10304,6 +9807,18 @@
 		)
 		(uuid "5270ef99-10c1-492b-8c20-2bea2cb8f3fb")
 	)
+	(hierarchical_label "FPGA_NL"
+		(shape input)
+		(at 295.91 102.87 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "54983851-0b2e-43b9-b796-7ed840346b38")
+	)
 	(hierarchical_label "#3.3V"
 		(shape input)
 		(at 39.37 226.06 180)
@@ -10316,7 +9831,19 @@
 		)
 		(uuid "5575e45f-9631-4106-9ff4-8cc52ad30858")
 	)
-	(hierarchical_label "FPGA_BANK6_IO[0..14]"
+	(hierarchical_label "FPGA_IO0"
+		(shape bidirectional)
+		(at 306.07 118.11 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5649895d-87e9-4550-a8b9-a3d3311d717c")
+	)
+	(hierarchical_label "FPGA_BANK6_IO[0..5]"
 		(shape input)
 		(at 246.38 195.58 0)
 		(fields_autoplaced yes)
@@ -10327,6 +9854,18 @@
 			(justify left)
 		)
 		(uuid "566495ec-9414-41fc-b890-258875738edf")
+	)
+	(hierarchical_label "FPGA_IO1"
+		(shape bidirectional)
+		(at 306.07 115.57 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "61c6d89b-2dc4-4862-b9fb-0373f6bbd307")
 	)
 	(hierarchical_label "FPGA_A1"
 		(shape input)
@@ -10363,6 +9902,30 @@
 			(justify right)
 		)
 		(uuid "7cf25d4b-aa39-4b4e-aa78-4762c8e6e944")
+	)
+	(hierarchical_label "FPGA_IO2"
+		(shape bidirectional)
+		(at 306.07 110.49 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8ec2f4ef-350a-4fec-91e8-f699d904b889")
+	)
+	(hierarchical_label "FPGA_IO4"
+		(shape bidirectional)
+		(at 306.07 107.95 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "90bab585-ada7-4c49-bac3-079375a6db28")
 	)
 	(hierarchical_label "FPGA_A2"
 		(shape input)
@@ -10519,6 +10082,30 @@
 			(justify right)
 		)
 		(uuid "f65dbfd6-5a6d-4f74-9bb4-56fae402340e")
+	)
+	(hierarchical_label "FPGA_IO5"
+		(shape bidirectional)
+		(at 306.07 105.41 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f803e2f7-27d7-4ccd-98e3-4bcde13e5e69")
+	)
+	(hierarchical_label "FPGA_IO3"
+		(shape bidirectional)
+		(at 306.07 113.03 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f889ca9f-99b7-4ba1-ad2f-f0f64513f037")
 	)
 	(hierarchical_label "FPGA_NWE"
 		(shape input)

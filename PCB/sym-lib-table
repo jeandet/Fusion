@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ICE40HX8K-CT256")(type "KiCad")(uri "${KIPRJMOD}/libs/ICE40HX8K-CT256.kicad_sym")(options "")(descr ""))
+  (lib (name "OLIMEX_IC")(type "Legacy")(uri "${KIPRJMOD}/libs/OLIMEX_IC.lib")(options "")(descr ""))
+  (lib (name "ecp5-12-tg144")(type "Legacy")(uri "${KIPRJMOD}/libs/ecp5-12-tg144.lib")(options "")(descr ""))
+)
