@@ -4,6 +4,15 @@
 	(generator_version "8.0")
 	(uuid "34bf61c7-9029-42c7-bee3-c6a432ae0efd")
 	(paper "A3")
+	(title_block
+		(title "Fusion")
+		(date "2024-03-15")
+		(rev "1.0")
+		(company "LPP/CNRS")
+		(comment 1 "Alexis Jeandet")
+		(comment 2 "CC-BY-SA")
+		(comment 3 "alexis.jeandet@member.fsf.org")
+	)
 	(lib_symbols
 		(symbol "Connector:Micro_SD_Card_Det_Hirose_DM3AT"
 			(exclude_from_sim no)

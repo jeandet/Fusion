@@ -5,9 +5,9 @@
 	(uuid "55a710f9-dbb9-4fa7-aa47-41671f4d78a1")
 	(paper "A4")
 	(title_block
-		(title "USB3 Datalogger")
-		(date "2020-09-21")
-		(rev "1.1")
+		(title "Fusion")
+		(date "2024-03-15")
+		(rev "1.0")
 		(company "LPP/CNRS")
 		(comment 1 "Alexis Jeandet")
 		(comment 2 "CC-BY-SA")
