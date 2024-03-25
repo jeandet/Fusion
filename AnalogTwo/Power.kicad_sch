@@ -1,0 +1,621 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "d59d33de-cc43-4c0f-b6b8-408c0d32e176")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Device:FerriteBead"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "FB"
+				(at -3.81 0.635 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "FerriteBead"
+				(at 3.81 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Ferrite bead"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "L ferrite bead inductor filter"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Inductor_* L_* *Ferrite*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "FerriteBead_0_1"
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 -1.2192)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy 0 1.2954)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.7686 0.4064) (xy -1.7018 2.2606) (xy 2.7686 -0.3048) (xy 1.6764 -2.159) (xy -2.7686 0.4064)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "FerriteBead_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 119.38 95.25) (xy 138.43 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "175f1601-591f-4af8-b7d2-b17e792420ce")
+	)
+	(wire
+		(pts
+			(xy 146.05 87.63) (xy 165.1 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30ea6a1b-2a75-4548-a808-6a5af466ab3c")
+	)
+	(wire
+		(pts
+			(xy 203.2 95.25) (xy 195.58 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42884d09-48c4-4cbe-a31d-ee86b8902e96")
+	)
+	(wire
+		(pts
+			(xy 203.2 87.63) (xy 195.58 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ab3b48b-bfed-483b-a7e8-fd35b7211b62")
+	)
+	(wire
+		(pts
+			(xy 59.69 87.63) (xy 67.31 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "829b3015-8cbd-4979-b445-bac379cdaf69")
+	)
+	(wire
+		(pts
+			(xy 119.38 87.63) (xy 138.43 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87630c80-5e00-46e3-8d91-268eacba5282")
+	)
+	(wire
+		(pts
+			(xy 146.05 95.25) (xy 165.1 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9e1b018-54bb-4bbf-b0cf-cbb59f28f602")
+	)
+	(wire
+		(pts
+			(xy 74.93 87.63) (xy 85.09 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e851b3ff-05fe-440c-8fcd-b0529a27cc6c")
+	)
+	(hierarchical_label "5V_USB"
+		(shape input)
+		(at 59.69 87.63 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9d8e8870-2bd4-46ae-82c8-5fedb191ad03")
+	)
+	(hierarchical_label "5V"
+		(shape output)
+		(at 203.2 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "af09f35c-39ea-4508-9441-67f34b47016e")
+	)
+	(hierarchical_label "-5V"
+		(shape output)
+		(at 203.2 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cf7ddee0-7f74-442c-bb50-2cd54d2d85e4")
+	)
+	(symbol
+		(lib_id "Device:FerriteBead")
+		(at 71.12 87.63 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2600223a-d7a0-4269-8069-fd2fd74db1c8")
+		(property "Reference" "FB4"
+			(at 74.93 84.836 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FerriteBead"
+			(at 71.0692 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_Eaton_MCL2012V1"
+			(at 71.12 89.408 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead"
+			(at 71.12 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "96a8dff9-63e8-42da-b32c-ebb5a355ef68")
+		)
+		(pin "1"
+			(uuid "5198e0b4-7ba6-43c2-8496-2f394471d61a")
+		)
+		(instances
+			(project "AnalogTwo"
+				(path "/f9770ba1-b001-4874-bfb2-f7b5c457ba21/c66c206c-3303-4809-b855-4ef86562e2aa"
+					(reference "FB4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead")
+		(at 142.24 95.25 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "489af821-129f-46ee-8893-7e6e2fcc4cd1")
+		(property "Reference" "FB3"
+			(at 145.034 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FerriteBead"
+			(at 142.1892 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_Eaton_MCL2012V1"
+			(at 142.24 97.028 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 142.24 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead"
+			(at 142.24 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5a5d4f06-41c0-4e64-9ecb-7afb4140f958")
+		)
+		(pin "1"
+			(uuid "cf812b3b-f642-409a-8946-a216f4987b7d")
+		)
+		(instances
+			(project "AnalogTwo"
+				(path "/f9770ba1-b001-4874-bfb2-f7b5c457ba21/c66c206c-3303-4809-b855-4ef86562e2aa"
+					(reference "FB3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead")
+		(at 142.24 87.63 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b103f205-863b-464e-ba54-4e459e22f90f")
+		(property "Reference" "FB2"
+			(at 146.05 84.836 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FerriteBead"
+			(at 142.1892 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_Eaton_MCL2012V1"
+			(at 142.24 89.408 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 142.24 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead"
+			(at 142.24 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "72c30c88-c983-473a-a985-47202e0143c9")
+		)
+		(pin "1"
+			(uuid "d977450c-c30e-454b-a621-5270537aa30a")
+		)
+		(instances
+			(project "AnalogTwo"
+				(path "/f9770ba1-b001-4874-bfb2-f7b5c457ba21/c66c206c-3303-4809-b855-4ef86562e2aa"
+					(reference "FB2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.09 80.01)
+		(size 34.29 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ae21aaa0-8079-4524-b6bf-a7fcabd9da12")
+		(property "Sheetname" "DCDC"
+			(at 85.09 79.2984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DCDC.kicad_sch"
+			(at 85.09 103.4546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "+6V" output
+			(at 119.38 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "bb326370-b73a-4368-bbfc-365d5d8ad9c6")
+		)
+		(pin "-6V" output
+			(at 119.38 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f218b6c5-9a64-44e9-91e7-3d60bb531724")
+		)
+		(pin "5V_USB" input
+			(at 85.09 87.63 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d67bdfd7-a793-427e-ae5e-db0f45ce0f5b")
+		)
+		(instances
+			(project "AnalogTwo"
+				(path "/f9770ba1-b001-4874-bfb2-f7b5c457ba21/c66c206c-3303-4809-b855-4ef86562e2aa"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 165.1 80.01)
+		(size 30.48 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b1ff4c23-4e3e-4d47-a11c-e322e4dc90cb")
+		(property "Sheetname" "LDO"
+			(at 165.1 79.2984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LDO.kicad_sch"
+			(at 165.1 103.4546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "-5V" output
+			(at 195.58 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d7c6d6b2-be75-45cc-aabc-e6287457324f")
+		)
+		(pin "5V" output
+			(at 195.58 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e866fa55-7a73-4840-b1dc-cdf32604f79e")
+		)
+		(pin "-6V" input
+			(at 165.1 95.25 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9b630db4-dfc0-4bb7-baca-d87d8ae31a85")
+		)
+		(pin "+6V" input
+			(at 165.1 87.63 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6ee96e42-0a63-4c4b-bd2b-b4e3b69a28ca")
+		)
+		(instances
+			(project "AnalogTwo"
+				(path "/f9770ba1-b001-4874-bfb2-f7b5c457ba21/c66c206c-3303-4809-b855-4ef86562e2aa"
+					(page "15")
+				)
+			)
+		)
+	)
+)

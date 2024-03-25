@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AD820")(type "KiCad")(uri "${KIPRJMOD}/libs/AD820.kicad_sym")(options "")(descr ""))
+  (lib (name "AD5641AKSZ-500RL7")(type "KiCad")(uri "${KIPRJMOD}/libs/AD5641AKSZ-500RL7.kicad_sym")(options "")(descr ""))
+  (lib (name "AnalogOne-altium-import")(type "KiCad")(uri "${KIPRJMOD}/AnalogOne-altium-import.kicad_sym")(options "")(descr ""))
+)
