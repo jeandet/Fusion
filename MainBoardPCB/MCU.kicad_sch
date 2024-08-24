@@ -15871,16 +15871,16 @@
 		)
 		(instances
 			(project "STicky"
-				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f674c0e"
-					(reference "#PWR?")
+				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66ca66"
+					(reference "#PWR0161")
 					(unit 1)
 				)
 				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66cb5f"
 					(reference "#PWR?")
 					(unit 1)
 				)
-				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66ca66"
-					(reference "#PWR0161")
+				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f674c0e"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -16233,16 +16233,16 @@
 		)
 		(instances
 			(project "STicky"
-				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f674c0e"
-					(reference "#PWR?")
+				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66ca66"
+					(reference "#PWR0152")
 					(unit 1)
 				)
 				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66cb5f"
 					(reference "#PWR?")
 					(unit 1)
 				)
-				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66ca66"
-					(reference "#PWR0152")
+				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f674c0e"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -16388,16 +16388,16 @@
 		)
 		(instances
 			(project "STicky"
-				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f674c0e"
-					(reference "R?")
+				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66ca66"
+					(reference "R3")
 					(unit 1)
 				)
 				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66cb5f"
 					(reference "R?")
 					(unit 1)
 				)
-				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66ca66"
-					(reference "R3")
+				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f674c0e"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -18417,16 +18417,16 @@
 		)
 		(instances
 			(project "STicky"
-				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f674c0e"
-					(reference "#PWR?")
+				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66ca66"
+					(reference "#PWR0153")
 					(unit 1)
 				)
 				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66cb5f"
 					(reference "#PWR?")
 					(unit 1)
 				)
-				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66ca66"
-					(reference "#PWR0153")
+				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f674c0e"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -19695,16 +19695,16 @@
 		)
 		(instances
 			(project "STicky"
-				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f674c0e"
-					(reference "C?")
+				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66ca66"
+					(reference "C6")
 					(unit 1)
 				)
 				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66cb5f"
 					(reference "C?")
 					(unit 1)
 				)
-				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66ca66"
-					(reference "C6")
+				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f674c0e"
+					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -20484,16 +20484,16 @@
 		)
 		(instances
 			(project "STicky"
-				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f674c0e"
-					(reference "#PWR?")
+				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66ca66"
+					(reference "#PWR0154")
 					(unit 1)
 				)
 				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66cb5f"
 					(reference "#PWR?")
 					(unit 1)
 				)
-				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66ca66"
-					(reference "#PWR0154")
+				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f674c0e"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -22649,16 +22649,16 @@
 		)
 		(instances
 			(project "STicky"
-				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f674c0e"
-					(reference "C?")
+				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66ca66"
+					(reference "C7")
 					(unit 1)
 				)
 				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66cb5f"
 					(reference "C?")
 					(unit 1)
 				)
-				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f66ca66"
-					(reference "C7")
+				(path "/65abeee2-2af2-4609-8a10-d716702626eb/00000000-0000-0000-0000-00005f674c0e"
+					(reference "C?")
 					(unit 1)
 				)
 			)
