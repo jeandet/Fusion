@@ -271,153 +271,6 @@
 				)
 			)
 		)
-		(symbol "UGA:UGA"
-			(exclude_from_sim no)
-			(in_bom no)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 1.27 10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "UGA"
-				(at 2.54 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "UGA:UGA_0603"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "UGA_0_1"
-				(polyline
-					(pts
-						(xy 3.81 5.08) (xy 6.35 5.08) (xy 3.81 2.54) (xy 6.35 2.54) (xy 3.81 5.08)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 0 8.89)
-					(end 10.16 0)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-			(symbol "UGA_1_1"
-				(pin input line
-					(at -2.54 6.35 0)
-					(length 2.54)
-					(name "RX1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -2.54 1.27 0)
-					(length 2.54)
-					(name "TX1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 12.7 1.27 180)
-					(length 2.54)
-					(name "RX2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 12.7 6.35 180)
-					(length 2.54)
-					(name "TX2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "ecp5-12-tg144:LFE5U-12-TG144"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -4149,16 +4002,6 @@
 		)
 		(uuid "082b8e74-7402-4bf0-b344-b142c3e2d4dc")
 	)
-	(wire
-		(pts
-			(xy 138.43 114.3) (xy 160.02 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "089df1df-0834-4892-ae6c-85c1a1ce245a")
-	)
 	(bus
 		(pts
 			(xy 198.12 227.33) (xy 198.12 229.87)
@@ -4301,7 +4144,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 114.3) (xy 123.19 114.3)
+			(xy 146.05 121.92) (xy 160.02 121.92)
 		)
 		(stroke
 			(width 0)
@@ -4891,16 +4734,6 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 111.76) (xy 160.02 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49f54bcc-d2c3-48ff-92ee-cef25bb38a2e")
-	)
-	(wire
-		(pts
 			(xy 116.84 218.44) (xy 130.81 218.44)
 		)
 		(stroke
@@ -4978,16 +4811,6 @@
 			(type default)
 		)
 		(uuid "4e62b749-9fdb-42a8-809c-81e0cd6941f1")
-	)
-	(wire
-		(pts
-			(xy 146.05 121.92) (xy 160.02 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ee040a5-a09e-406e-a027-b83f593a3754")
 	)
 	(wire
 		(pts
@@ -5188,16 +5011,6 @@
 			(type default)
 		)
 		(uuid "5d21a003-cf24-4813-a00b-e9ffb0b01630")
-	)
-	(wire
-		(pts
-			(xy 143.51 109.22) (xy 143.51 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d8c89c2-fa9f-4617-b2e9-0848ea4e5901")
 	)
 	(bus
 		(pts
@@ -5618,16 +5431,6 @@
 			(type default)
 		)
 		(uuid "7b9229fb-fa54-407f-81c9-5c1502ab8837")
-	)
-	(wire
-		(pts
-			(xy 138.43 109.22) (xy 143.51 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7bb52ad6-387b-4264-b642-0128473cf945")
 	)
 	(wire
 		(pts
@@ -7019,16 +6822,6 @@
 			(type default)
 		)
 		(uuid "d5e088b1-0d85-49a5-bac9-13176c1c7faa")
-	)
-	(wire
-		(pts
-			(xy 120.65 109.22) (xy 123.19 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d7457002-fc79-414c-afed-c3132466572d")
 	)
 	(bus
 		(pts
@@ -13424,18 +13217,6 @@
 		)
 		(uuid "68932aa1-0a1c-47cd-8577-01c3d6e46737")
 	)
-	(hierarchical_label "FPGA_CFG_MISO"
-		(shape output)
-		(at 120.65 109.22 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7cf25d4b-aa39-4b4e-aa78-4762c8e6e944")
-	)
 	(hierarchical_label "FPGA_IO2"
 		(shape bidirectional)
 		(at 306.07 110.49 180)
@@ -13486,7 +13267,7 @@
 	)
 	(hierarchical_label "FPGA_CFG_MOSI"
 		(shape input)
-		(at 120.65 114.3 180)
+		(at 146.05 121.92 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13603,18 +13384,6 @@
 			(justify right)
 		)
 		(uuid "f16b4dad-f442-4906-b3fc-56532a88ef4e")
-	)
-	(hierarchical_label "FPGA_CFG_HOLDN"
-		(shape input)
-		(at 146.05 121.92 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f65dbfd6-5a6d-4f74-9bb4-56fae402340e")
 	)
 	(hierarchical_label "FPGA_IO5"
 		(shape bidirectional)
@@ -13792,86 +13561,6 @@
 			(project "Fusion"
 				(path "/9f566196-80c5-4736-8658-8706a05587fc/bbe00b15-e65d-4c7a-afa4-5c349809d924"
 					(reference "#PWR090")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "UGA:UGA")
-		(at 125.73 115.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "04bea72e-9511-4f1d-ba5d-84afa6293389")
-		(property "Reference" "U6"
-			(at 127 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "UGA"
-			(at 130.81 103.505 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "UGA:UGA_0603"
-			(at 125.73 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 125.73 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 125.73 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3c72dfa2-9d31-4a83-9802-58891e4750c3")
-		)
-		(pin "2"
-			(uuid "a55baf72-0b52-4be7-aa7b-949aac17ba1d")
-		)
-		(pin "3"
-			(uuid "936c134f-41d7-4ab2-893e-d16a36cb732f")
-		)
-		(pin "4"
-			(uuid "dbc9a43d-d257-4a3a-9355-0738d3f3e24a")
-		)
-		(instances
-			(project "STicky"
-				(path "/30aa914d-22ff-4c11-8074-f1902c20b00d/00000000-0000-0000-0000-00005f6cbd4c"
-					(reference "U6")
-					(unit 1)
-				)
-			)
-			(project "Fusion"
-				(path "/9f566196-80c5-4736-8658-8706a05587fc/bbe00b15-e65d-4c7a-afa4-5c349809d924"
-					(reference "U8")
 					(unit 1)
 				)
 			)

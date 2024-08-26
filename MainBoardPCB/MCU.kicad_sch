@@ -7435,16 +7435,6 @@
 	)
 	(wire
 		(pts
-			(xy 299.72 53.34) (xy 306.07 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14239692-12c3-449f-9061-5c57bbf799da")
-	)
-	(wire
-		(pts
 			(xy 170.18 115.57) (xy 170.18 116.84)
 		)
 		(stroke
@@ -14391,18 +14381,6 @@
 		)
 		(uuid "3b39422a-23d7-49c2-ab6d-82585aad1ead")
 	)
-	(hierarchical_label "FPGA_CFG_MISO"
-		(shape input)
-		(at 306.07 53.34 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "3c51dad3-8669-4598-9ff1-235e18d6d305")
-	)
 	(hierarchical_label "FPGA_IO2"
 		(shape bidirectional)
 		(at 218.44 210.82 180)
@@ -15822,7 +15800,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1d8b7ded-c2f6-4ba7-8047-a0991ed71808")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0161"
 			(at 85.09 199.39 0)
 			(effects
 				(font
@@ -16184,7 +16162,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "28c2115d-6dbc-459c-bc0d-e55191a757c5")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0152"
 			(at 369.57 97.79 0)
 			(effects
 				(font
@@ -16337,7 +16315,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2a33ad08-4f56-480c-8a43-8b914bd0855b")
-		(property "Reference" "R?"
+		(property "Reference" "R3"
 			(at 312.42 113.03 90)
 			(effects
 				(font
@@ -18368,7 +18346,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5f39e99c-1b32-459e-9ff8-2fdca8d22e2b")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0153"
 			(at 381 97.79 0)
 			(effects
 				(font
@@ -19642,7 +19620,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "74223d8a-52df-445c-b0cb-84673cb242bb")
-		(property "Reference" "C?"
+		(property "Reference" "C6"
 			(at 372.491 84.5566 0)
 			(effects
 				(font
@@ -20435,7 +20413,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8753a61e-2871-4a26-ba54-7a598533fded")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0154"
 			(at 337.185 133.985 0)
 			(effects
 				(font
@@ -22596,7 +22574,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c69432ee-4fa3-4d2e-855a-27074713e940")
-		(property "Reference" "C?"
+		(property "Reference" "C7"
 			(at 383.921 84.5566 0)
 			(effects
 				(font
