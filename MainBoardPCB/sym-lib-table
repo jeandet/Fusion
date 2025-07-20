@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "ecp5-12-tg144")(type "Legacy")(uri "${KIPRJMOD}/libs/ecp5-12-tg144.lib")(options "")(descr ""))
   (lib (name "ina236")(type "KiCad")(uri "${KIPRJMOD}/libs/ina236.kicad_sym")(options "")(descr ""))
+  (lib (name "ecp5")(type "KiCad")(uri "${KIPRJMOD}/libs/ecp5.kicad_sym")(options "")(descr ""))
+  (lib (name "SparkFun Pro Micro - RP2040")(type "KiCad")(uri "${KIPRJMOD}/libs/SparkFun Pro Micro - RP2040.kicad_sym")(options "")(descr ""))
+  (lib (name "M.2-Templates-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/libs/M.2-Templates-eagle-import.kicad_sym")(options "")(descr ""))
 )

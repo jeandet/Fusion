@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 5,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -8,14 +8,12 @@
       "GND",
       "/DAC_OUT1",
       "/DAC_OUT2",
-      "/#1.1V",
       "/ADC_IN2",
       "/ADC_IN5",
       "/ADC_IN4",
       "/ADC_IN0",
       "/ADC_IN1",
-      "/ADC_IN3",
-      "/#2.5V"
+      "/ADC_IN3"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -60,7 +58,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffffff5_ffffffff",
+    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
